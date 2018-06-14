@@ -1,10 +1,11 @@
 # screws_mc_master_carr
 A list of common screws, washers and nuts for inch and metric type screws with the McMaster-Carr code
 
-Inch screws		
-18-8 Stainless Steel		
+## Inch screws		
+### 18-8 Stainless Steel		
 		
 Type	Length (inch)	
+
 1-64 - 1/4
 
 1-64 - 5/16
@@ -83,7 +84,7 @@ Type	Length (inch)
 1/4-20	- 1	
 	
 
-Washers		
+### Washers		
 No 2 screws	
 
 No 3 screws		
@@ -98,8 +99,8 @@ No 8 screws
 
 No 10 screws		
 
-Metric screws	
-18-8 Stainless Steel	
+## Metric screws	
+### 18-8 Stainless Steel	
 	
 Type	Length (inch)
 M2 -	6
