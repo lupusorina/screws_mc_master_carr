@@ -102,7 +102,8 @@ No 10 screws
 ## Metric screws	
 ### 18-8 Stainless Steel	
 	
-Type	Length (inch)
+Type	Length (mm)
+
 M2 -	6
 
 M2 -	8
